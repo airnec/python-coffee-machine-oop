@@ -5,7 +5,7 @@ It contains the following basics:\
 --> While Loop\
 --> For Loop\
 --> If-Else Conditional\
---> Procedures\
+--> Procedures
 
 It is absolutely based on Object-Oriented Programming and Classes
 
